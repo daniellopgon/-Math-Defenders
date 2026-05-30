@@ -46,6 +46,7 @@ La base de código está modularizada para ser escalable:
 
 ## Estructura
 
+```
 └───app\
     └───src\
         └───main\
@@ -76,6 +77,7 @@ La base de código está modularizada para ser escalable:
                         │
                         └───input\
                                 InputManager.kt
+```
 
 ---
 
